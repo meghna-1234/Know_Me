@@ -81,8 +81,8 @@ function App() {
               <a className="text-link" href="mailto:patelmeghna699@gmail.com">Let’s connect <ArrowUpRight size={16} /></a>
             </div>
             <div className="hero-meta">
-              <span><strong>02</strong> years of learning</span>
-              <span><strong>08.10</strong> current CGPA</span>
+              <span><strong>03</strong> years of learning</span>
+              <span><strong>08.10</strong> current CGPA</span><span><strong>08.33</strong> current SGPA</span>
               <span><strong>2028</strong> graduating</span>
             </div>
           </div>
