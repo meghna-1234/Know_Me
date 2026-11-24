@@ -82,7 +82,7 @@ function App() {
             </div>
             <div className="hero-meta">
               <span><strong>02</strong> years of learning</span>
-              <span><strong>08.02</strong> current SGPA</span>
+              <span><strong>08.10</strong> current CGPA</span>
               <span><strong>2028</strong> graduating</span>
             </div>
           </div>
@@ -133,7 +133,7 @@ function App() {
           <div className="section-label"><span>04</span><span>Experience & education</span></div>
           <div className="timeline">
             <div className="timeline-item"><span className="timeline-date">MAY — DEC 2025</span><div><h3>Intern · Edigible</h3><p>Amazon Web Services</p><span>Gained practical knowledge of operating systems and AWS while contributing AI-based solutions to a real-world cloud project.</span></div></div>
-            <div className="timeline-item"><span className="timeline-date">2024 — 2028</span><div><h3>B.Tech · Computer Science Engineering</h3><p>RGPV University · LNCTS Bhopal</p><span>Current SGPA: 8.02 / 10</span></div></div>
+            <div className="timeline-item"><span className="timeline-date">2024 — 2028</span><div><h3>B.Tech · Computer Science Engineering</h3><p>RGPV University · LNCTS Bhopal</p><span>Current CGPA: 8.10 / 10 · SGPA: 8.33 / 10</span></div></div>
           </div>
         </section>
 
