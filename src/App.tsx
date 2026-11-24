@@ -88,7 +88,7 @@ function App() {
           </div>
           <div className="hero-visual" aria-label="Portrait area">
             <div className="portrait-card">
-              <img className="portrait-image" src="/image.png" alt="Meghna Patel" />
+              <img className="portrait-image" src={`${import.meta.env.BASE_URL}image.png`} alt="Meghna Patel" />
               <div className="portrait-caption"><span>Meghna Patel</span><span>01 / 01</span></div>
             </div>
             <div className="circle-text">AI · CLOUD · CODE · AI · CLOUD · CODE ·</div>
